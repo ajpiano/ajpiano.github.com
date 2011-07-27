@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title></title>
+  <link href="http://ajpiano.github.com/atom.xml" rel="self"/>
+  <link href="http://ajpiano.github.com/"/>
+  <updated>2011-07-27T17:29:28-04:00</updated>
+  <id>http://ajpiano.github.com/</id>
+  <author>
+    <name>adam j. sontag</name>
+    
+  </author>
+
+  
+  <entry>
+    <title>Check Out This Mofuckin' Benz</title>
+    <link href="http://ajpiano.github.com/Bling/check-out-this-mofuckin-benz.html"/>
+    <updated>2011-07-27T16:44:00-04:00</updated>
+    <id>http://ajpiano.github.com/Bling/check-out-this-mofuckin-benz</id>
+    <content type="html">&lt;h2&gt;BAM&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blinged.jpg&quot; alt=&quot;Mercedes Benz with a great number of jewels encrusted upon it&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Big Ol Diamonds</title>
+    <link href="http://ajpiano.github.com/Bling/big-ol-diamonds.html"/>
+    <updated>2011-07-27T15:43:00-04:00</updated>
+    <id>http://ajpiano.github.com/Bling/big-ol-diamonds</id>
+    <content type="html">&lt;p&gt;Diamonds are a girl's best friend, so they say.&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
